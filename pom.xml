@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.sajithten</groupId>
 	<artifactId>springboot-java-maven</artifactId>
-	<version>0.0.3</version>
+	<version>0.0.2</version>
 	<name>springboot-java-maven</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
