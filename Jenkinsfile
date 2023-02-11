@@ -16,7 +16,7 @@ pipeline{
             }
         stage ('Building docker image'){
             steps{
-                sh 'sudo docker image build -t sajithten/springboot:$BUILD_NUMBER .'
+                sh 'docker image build -t sajithten/springboot:$BUILD_NUMBER .'
 
                  }
             }
